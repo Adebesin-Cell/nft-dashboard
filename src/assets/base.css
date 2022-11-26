@@ -41,6 +41,10 @@
 
   --span-xs: calc(var(--unit) * 1);
   --span-s: calc(var(--unit) * 2);
+  --span-m: calc(var(--unit) * 3);
+  --span-l: calc(var(--unit) * 4);
+  --span-xl: calc(var(--unit) * 5);
+  --span-2xl: calc(var(--unit) * 6);
 }
 
 /* @media (prefers-color-scheme: dark) {
