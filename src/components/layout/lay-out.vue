@@ -16,6 +16,8 @@ export default {
 
 <style lang="scss" scoped>
 .dashboard {
-  padding: var(--span-l) var(--span-s);
+  display: flex;
+  gap: var(--span-m);
+  padding: var(--span-l) var(--span-m);
 }
 </style>
